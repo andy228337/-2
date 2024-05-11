@@ -11,7 +11,7 @@
 * Сумма чисел в файле (_sum)
 * Произведение чисел в файле (_mult)
 ## Технологии
-* JUnit
+* [JUnit](https://www.google.com)
 * Maven
 * Github
 ## Использование
